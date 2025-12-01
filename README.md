@@ -35,7 +35,6 @@
 
 
 [![x](https://github-readme-streak-stats.herokuapp.com/?user=wwwLui&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwLui&=compact&theme=blue-green)
 
 
 Quando eu criar coragem subo os projetos em C++ e atualizo isso :@
