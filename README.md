@@ -37,4 +37,5 @@
 [![x](https://github-readme-streak-stats.herokuapp.com/?user=wwwLui&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
-Quando eu criar coragem subo os projetos em C++ e atualizo isso :@
+Quando eu possuir tempo subo os projetos em C++ e atualizo isso :@
+
